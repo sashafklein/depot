@@ -1,0 +1,1 @@
+I'm going to code as far into this thing as is helpful for learning how to do meatup. My Heroku version is at link:https://blank.herokuapps.com
